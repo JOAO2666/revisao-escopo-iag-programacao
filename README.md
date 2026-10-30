@@ -11,9 +11,9 @@ Investigação sobre o impacto das ferramentas de Inteligência Artificial Gener
 O levantamento segue as diretrizes do Joanna Briggs Institute (JBI) e o checklist PRISMA-ScR.
 
 Definição do mnemônico PCC:
-* População (P): Estudantes de graduação.
-* Conceito (C): Uso de IA Generativa na aprendizagem de programação.
-* Contexto (C): Ensino superior.
+ População (P): Estudantes de graduação.
+ Conceito (C): Uso de IA Generativa na aprendizagem de programação.
+ Contexto (C): Ensino superior.
 
 Bases consultadas: Scopus, Web of Science, Portal de Periódicos CAPES e Google Acadêmico (período 2021–2026).
 
